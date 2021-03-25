@@ -13,11 +13,9 @@ SO THAT my account balance is accurate when I am traveling
 ```
 
 ## Screenshots
-![App Screenshot](./public/images/screenshot1.png)
+![App Screenshot](/Develop/public/images/screenshot1.png)
 
 ## Links
 
 * Heroku Link:https://thawing-lowlands-15735.herokuapp.com/
 * GitHub repositories: https://github.com/mengyue-z/Online-Offline-Budget-Trackers
-
-
