@@ -2,7 +2,8 @@
 
 ## Description
 
-* 
+* This is a budget tracker application that users will be able to add expenses and deposits to their budget with or without a connection. 
+* When entering transactions offline, they should populate the total when the application is back online.
 
 ## User Story
 ```
@@ -13,12 +14,10 @@ SO THAT my account balance is accurate when I am traveling
 
 ## Screenshots
 ![App Screenshot](./public/images/screenshot1.png)
-![App Screenshot](./public/images/screenshot2.png)
-![App Screenshot](./public/images/screenshot3.png)
 
 ## Links
 
 * Heroku Link:https://thawing-lowlands-15735.herokuapp.com/
-* GitHub repositories: https://github.com/mengyue-z/Workout-Tracker
+* GitHub repositories: https://github.com/mengyue-z/Online-Offline-Budget-Trackers
 
 
