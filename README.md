@@ -13,7 +13,7 @@ SO THAT my account balance is accurate when I am traveling
 ```
 
 ## Screenshots
-![App Screenshot](/Develop/public/images/screenshot1.png)
+![App Screenshot](/public/images/screenshot1.png)
 
 ## Links
 
